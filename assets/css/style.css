@@ -82,3 +82,18 @@ nav {
     filter: grayscale(1);
 
 }
+.right-col h1 {
+    font-size: 55px;
+    font-weight: 600;
+}
+.right-col p {
+    color: black;
+    margin: 20px 0 70px;
+}
+.social-media i {
+
+    font-size: 160%;
+    margin: 2%;
+    padding: 5%;
+   
+}
