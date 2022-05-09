@@ -11,9 +11,40 @@ body{
 
     font-family: Lato, sans-serif;
     font-weight: 300px;
+   
 }
 .logo {
-    width: 140px;
-    padding-top: 10px;
-    padding-left: 10%;
+   text-decoration: none;
+   width: 110px;
+   padding-top: 10px;
+   padding-left: 90%;
+   
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.menu {
+
+    text-align: right;
+    background: #ff1616;
+    padding: 10px 30px;
+    border-top-left-radius: 18px;
+}
+
+   
+
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
 }
