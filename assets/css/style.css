@@ -49,6 +49,10 @@ nav {
     text-decoration: none;
     font-size: 18px;
 }
+.menu a:hover {
+border-bottom: 1px solid #fff;
+
+}
 .left-sidebar {
     width: 20%;
     height: 100%;
