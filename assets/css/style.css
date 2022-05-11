@@ -10,7 +10,7 @@
 body{
 
     font-family: Lato, sans-serif;
-    font-weight: 300px;
+    font-weight: 300;
    
 }
 .logo {
@@ -100,4 +100,22 @@ border-bottom: 1px solid #fff;
     margin: 2%;
     padding: 5%;
    
+}
+/* Media Queries */
+/* for larger to medium screen size from 799px wide and down*/
+@media screen and (max-width: 799px) {
+    
+    .left-col {
+       width: 0%;
+    }
+   
+}
+@media screen and (max-width: 950px) {
+    .menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+
 }
