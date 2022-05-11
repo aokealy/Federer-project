@@ -11,6 +11,7 @@ body{
 
     font-family: Lato, sans-serif;
     font-weight: 300;
+    font-size: 20px;
    
 }
 .logo {
@@ -55,7 +56,16 @@ border-bottom: 1px solid #fff;
 }
 .left-sidebar {
     width: 20%;
-    height: 150%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #ff1616;
+}
+/* for left side of timeline page */
+.left-sidebar-timeline {
+    width: 20%;
+    height: 300%;
     position: absolute;
     left: 0;
     top: 0;
