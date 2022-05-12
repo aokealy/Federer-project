@@ -65,7 +65,7 @@ border-bottom: 1px solid #fff;
 /* for left side of timeline page */
 .left-sidebar-timeline {
     width: 20%;
-    height: 400%;
+    height: 540%;
     position: absolute;
     left: 0;
     top: 0;
@@ -154,3 +154,8 @@ border-bottom: 1px solid #fff;
    
 }
 
+.Federer-img-2017 {
+    margin-top: 15px;
+    border:solid red 1px; padding: 2px; 
+    border-radius: 25px;
+}
