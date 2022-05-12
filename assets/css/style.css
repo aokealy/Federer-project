@@ -114,19 +114,23 @@ border-bottom: 1px solid #fff;
 }
 /* Media Queries */
 /* for larger to medium screen size from 799px wide and down*/
-@media screen and (max-width: 799px) {
+@media screen and (max-width: 850px) {
     
-    .left-col {
-       width: 0%;
-    }
+   .right-col {
+       width: 65%;
+       height: 850px;
+       margin: 0 auto;
+   }
+   .logo {
+       padding: 0;
+       width: 15%;
+       float: left;
+   }
+   .left-col img {
+    width: 90%;
+    height: 400px;
+    position: relative;
+    
+}
+   }
    
-}
-@media screen and (max-width: 950px) {
-    .menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-    }
-
-}
