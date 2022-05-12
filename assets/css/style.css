@@ -134,3 +134,10 @@ border-bottom: 1px solid #fff;
 }
    }
    
+.federer-img-child {
+
+    float: left; 
+    margin-right:10px; 
+    border:solid red 1px; padding: 2px; 
+    border-radius: 25px;
+}
