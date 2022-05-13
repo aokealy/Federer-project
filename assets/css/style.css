@@ -53,6 +53,7 @@ nav {
 .menu a:hover {
 border-bottom: 1px solid #fff;
 
+
 }
 .left-sidebar {
     width: 20%;
@@ -158,4 +159,26 @@ border-bottom: 1px solid #fff;
     margin-top: 15px;
     border:solid red 1px; padding: 2px; 
     border-radius: 25px;
+}
+/*gallery photos */
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+   
+
+}
+#photos > img {
+    width: 100%;
+}
+.left-sidebar-gallery {
+    width: 20%;
+    height: 17.5%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #ff1616;
+    border-radius: 25px;
+
 }
