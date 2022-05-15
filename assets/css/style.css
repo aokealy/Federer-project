@@ -156,6 +156,19 @@ border-bottom: 1px solid #fff;
     position: relative;
     
 }
+.menu ul {
+    width: 100%;
+    position: absolute;
+    top: 75px;
+    right: 0;
+    z-index: 2;
+    background: #ff1616;
+}
+.menu ul li {
+
+margin-top: 10px;
+margin-bottom: 10px;
+}
    }
    
 .federer-img-child {
