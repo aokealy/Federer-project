@@ -263,6 +263,7 @@ form .user-details .input-box {
     padding-left: 15px;
     font-size: 16px;
     border-bottom-width: 2px;
+    transition: all 0.3s ease;
 }
 .user-details .input-box input .details {
     display: block;
@@ -271,5 +272,36 @@ form .user-details .input-box {
 }
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
-border-color: #ff1616;
+border-color: greenyellow;
+}
+.form .gender-details .gender.title {
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.form .gender-details .category {
+width: 80%;
+display: flex;
+background: greenyellow;
+
+}
+form .button {
+    height: 50px;
+    margin: 45px 0;
+    
+   
+}
+form .button input {
+    height: 100%;
+    border-radius: 5px;
+    outline: none;
+    color: black;
+    font-size: 18px;
+    width: max-content;
+    margin-left: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+
 }
