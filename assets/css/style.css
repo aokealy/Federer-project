@@ -211,3 +211,29 @@ margin-bottom: 10px;
 #photos > img {
     width: 100%;
 }
+.right-col-form {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg,);
+}
+.container {
+    max-width: 700px;
+    width: 100%;
+    background: #ff1616;
+    padding: 25px, 30px;
+    border-radius: 5px;
+}
+.container .title {
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+}
+.container .title::before {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 30px;
+
+}
