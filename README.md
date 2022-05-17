@@ -24,3 +24,6 @@ This website gives a glimse into his career starting out to where he is currentl
   
  
 ![Mx0VFCkqlC](https://user-images.githubusercontent.com/104302143/168828814-58fc35fe-9809-44e0-a7fe-7ff451ae1082.jpg)
+    <p> This timeline page has the same navigation bar and logo to make it fluid and inline with the other pages.
+      <br>
+      It starts out with small history about his younger days and when his professional career began.
