@@ -36,7 +36,7 @@ This website gives a glimse into his career starting out to where he is currentl
     <h1> Gallery </h1>
     ![chrome_fHa5ANjolC](https://user-images.githubusercontent.com/104302143/168984712-4b4a3946-1281-49ce-9b14-428455eebc9a.jpg)
     <ul>
-      <li>The Gallery page consists of images of Federer throughout his career./li>
+      <li>The Gallery page consists of images of Federer throughout his career.
       <li>It shows all 20 of Federer's Grand Slams in order from top to bottom.</li>
       <li>It is layed out so everyone can see how many Grand Slams he has won from each tournament.</li>
       
