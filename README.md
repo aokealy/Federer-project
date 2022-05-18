@@ -46,7 +46,7 @@ This website gives a glimse into his career starting out to where he is currentl
           given stats each week that you may not know about! </p>
             <br>
         <ul>
-        <li>The sign up page requires you to fill out your name, email, username and passsword and also comfirming passowrd. </li>
+        <li>The sign up page requires you to fill out your name, email, phone number, username and passsword and also comfirming passowrd. </li>
           <ul>
       
      
