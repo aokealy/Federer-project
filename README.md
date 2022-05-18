@@ -27,3 +27,21 @@ This website gives a glimse into his career starting out to where he is currentl
     <p> This timeline page has the same navigation bar and logo to make it fluid and inline with the other pages.
       <br>
       It starts out with small history about his younger days and when his professional career began.
+      <br>
+      It then looks at his most dominant years on tour where he was at his peak and shows how many Gand Sams Federer was winning during those years.
+      There are images of Federer added under each section during his years where we was the most sucessful. 
+      I keep the same colour scheme throughout each page and made the images a good size and easy to see. </p>
+    <ul>
+      <li>At the bottom of the page is a list of his most impressive achievements troughout his career.
+    <h1> Gallery </h1>
+    ![chrome_fHa5ANjolC](https://user-images.githubusercontent.com/104302143/168984712-4b4a3946-1281-49ce-9b14-428455eebc9a.jpg)
+    <ul>
+      <li>The Gallery page consists of images of Federer throughout his career./li>
+      <li>It shows all 20 of Federer's Grand Slams in order from top to bottom.</li>
+      <li>It is layed out so everyone can see how many Grand Slams he has won from each tournament.</li>
+      
+ 
+
+   
+  
+
