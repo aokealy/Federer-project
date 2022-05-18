@@ -42,7 +42,12 @@ This website gives a glimse into his career starting out to where he is currentl
         </ul>
         <h2> Sign Up Page: </h2>
         ![chrome_KtkLfc4huZ](https://user-images.githubusercontent.com/104302143/168988086-243d7a3d-d033-4d3b-b593-aa72583fbb93.jpg)
-
+        <p> The sign up page is used to sign up to become a Federer fan where you will receive emails weekly updates about Federer and will be
+          given stats each week that you may not know about! </p>
+            <br>
+        <ul>
+        <li>The sign up page requires you to fill out your name, email, username and passsword and also comfirming passowrd. </li>
+          <ul>
       
      
 
